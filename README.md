@@ -22,3 +22,5 @@ Why is it important?
 My grades (6th - master's)
 
 There will never ever be another modpack like GTNH (Inspired by EmpLemon)
+
+Probability distributions
